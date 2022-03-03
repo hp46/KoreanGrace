@@ -1,0 +1,72 @@
+{
+    "NAV_LOGO_NAME": "은혜교회",
+    "NAV_LOGO_NAME2": "Christian Reformed",
+    "NAV_HOME": "홈페이지",
+    "NAV_ABOUT_US": "교회 소개",
+    "NAV_MINISTRIES": "교회 활동",
+
+    "HOME_PARALLAX_TEXT_UNDERLINE": "환영합니다! ",
+    "HOME_PARALLAX_TEXT": "은혜교회에 처음 방문해 주셔서 감사합니다! ",
+    "HOME_INFO_SERVICE_TITLE": "예배 시간",
+    "HOME_INFO_SERVICE_DATE": "주일:",
+    "HOME_INFO_SERVICE_TIME": "11:00am (한국어 & 영어 통역 가능) ",
+    "HOME_INFO_SERVICE_LOCATION": "장소:",
+    "HOME_INFO_SERVICE_PLACE": "대예배실",
+    "HOME_INFO_SERVICE_BUTTON": "설교 다시 듣기",
+
+    "HOME_INFO_CONTACT_TITLE": "교회 주소:",
+    "HOME_INFO_CONTACT_ADDRESS": "1970 Jefferson Ave SE ",
+    "HOME_INFO_CONTACT_ADDRESS2": "Grand Rapids, MI 49507",
+    "HOME_INFO_CONTACT_PHONE_NUMBER": "(616) 452-3669",
+    "HOME_INFO_CONTACT_GOOGLE_MAP": "교회 오는 길",
+
+    "HOME_PARALLAX_TEXT_TITLE2": "사역 목표",
+    "HOME_PARALLAX_TEXT2": "전교인과 목사가 하나되어 선기는 교회!",
+
+    "HOME_GROUP_CHURCH": "교회에 있는 공동체",
+    "HOME_GROUP_CHURCH_DESCRIPTION": "교회 공동체를 통해서 영적으로 또 사회적으로 성장 할 수 있는 다양한 활동과 봉사들이 있습니다.",
+    "HOME_GROUP_BUTTON": "더 알아보기",
+
+    "MINISTRY_PARALLAX_TEXT":"교회 안에서 ",
+    "MINISTRY_PARALLAX_TEXT2":"찾을 수 있는 사역",
+
+    "MINISTRY_YOUTH_GROUP":"중고등부 ",
+    "MINISTRY_YOUTH_GROUP_DESCRIPTION":"Teaching young people in the church to grow in their relationship with the Lord prepares them to serve Christ in all they do. ",
+    "MINISTRY_YOUTH_GROUP_DATE":"토요일: ",
+    "MINISTRY_YOUTH_GROUP_TIME":"11:00 am ",
+    "MINISTRY_YOUTH_GROUP_LOCATION":"장소: ",
+    "MINISTRY_YOUTH_GROUP_PLACE":"예배당 ",
+
+    "MINISTRY_UNIVERSITY_GROUP":"대학부 예배 ",
+    "MINISTRY_UNIVERSITY_GROUP_DESCRIPTION":"The University Group usually consists of Calvin University's students. Join us for a weekly services with fellow young Christians.", 
+    "MINISTRY_UNIVERSITY_GROUP_DATE":"토요일: ",
+    "MINISTRY_UNIVERSITY_GROUP_TIME":"6:00 am ",
+    "MINISTRY_UNIVERSITY_GROUP_LOCATION":"장소: ",
+    "MINISTRY_UNIVERSITY_GROUP_PLACE":"예배당 ",
+
+    "MINISTRY_ADULT_GROUP":"청년2부 예배 ",
+    "MINISTRY_ADULT_GROUP_DESCRIPTION":"Create a service-oriented community and increase fellowship between young professional adults and families in our church.", 
+    "MINISTRY_ADULT_GROUP_DATE":"첫쨰/ 셋째 금요일: ",
+    "MINISTRY_ADULT_GROUP_TIME":"7:30 pm ",
+    "MINISTRY_ADULT_GROUP_LOCATION":"장소: ",
+    "MINISTRY_ADULT_GROUP_PLACE":"예배당 ",
+
+    "MINISTRY_BIBLE_GROUP":"성경 공부 ",
+    "MINISTRY_BIBLE_GROUP_DESCRIPTION":"Reading and sharing scripture with each other through Bible study.", 
+    "MINISTRY_BIBLE_GROUP_DATE":"목요일: ",
+    "MINISTRY_BIBLE_GROUP_TIME":"10:30 am",
+    "MINISTRY_BIBLE_GROUP_DATE2":"금요일: ",
+    "MINISTRY_BIBLE_GROUP_TIME2":"10:30 am",
+    "MINISTRY_BIBLE_GROUP_DATE3":"토요일: ",
+    "MINISTRY_BIBLE_GROUP_TIME3":"10:30 am",
+    "MINISTRY_BIBLE_GROUP_DATE4":"주일: ",
+    "MINISTRY_BIBLE_GROUP_TIME4":"3:00 pm",
+    "MINISTRY_BIBLE_GROUP_LOCATION":"장소: ",
+    "MINISTRY_BIBLE_GROUP_PLACE":"줌(Zoom) ",
+
+    "FOOTER_TAGLINE": "“내가 새 일을 행하리니” 이사야 43:19",
+    "FOOTER_CONTACT_US": "교회 주소",
+    "FOOTER_FAX": "Fax: (616) 452-3669",
+    "FOOTER_FOLLOW_US": "교회 소식"
+}
+  
