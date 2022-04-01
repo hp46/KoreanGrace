@@ -13,8 +13,8 @@ p {
 #footer-container {
     display: flex;
     flex-direction: column;
-    height: auto;
-    width: 100vw;
+    height: 250px;
+    width: 100%;
     position: relative;
     background-color: rgb(71, 71, 71);
     bottom: 0;
@@ -31,8 +31,7 @@ p {
     display: grid;
     grid-template-columns: 33vw 33vw 33vw;
     grid-template-rows: 1;
-    margin-bottom: 30px;
-    margin-top:30px;
+    margin: auto auto;
 
     h2 {
         text-transform: uppercase;
@@ -45,30 +44,39 @@ p {
         text-transform: uppercase;
         font-weight: 200;
         font-size: 12px;
+        margin-top: 5px;
     }
 }
 
 #grid-one {
+    width: 80%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    margin: auto auto;
 }
 
 #grid-two {
+    width: 80%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin-bottom: 2px;
     align-items: center;
+    text-align: center;
+    margin: auto auto;
 }
 
 #grid-three {
+    width: 80%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    
+    text-align: center;
+    margin: auto auto;
 }
 
 .image-container {
@@ -78,5 +86,55 @@ p {
     img {
         width: 50px;
         height: 50px;
+    }
+}
+
+@media (max-width: 991px) {
+    #footer-info-container {
+        display: grid;
+        height: 100%;
+        grid-template-rows: repeat(2, 50% 50%);
+        grid-template-columns: repeat(2, 50%);
+        margin: auto auto;
+    }
+
+    #grid-one {
+        grid-column: 1;
+        grid-row: 1;
+        p {
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            font-weight: 300;
+            font-size: 10px;
+            margin-top: 5px;
+        }
+    }
+
+    #grid-two {
+        grid-column: 2;
+        grid-row: 1/2;
+        margin: 60px auto auto auto;
+        h2 {
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-size: 20px;
+        }
+        p {
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            font-weight: 300;
+            font-size: 10px;
+            margin-top: 5px;
+        }
+    }
+
+    #grid-three {
+        grid-column: 1;
+        grid-row: 2;
+        h2 {
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-size: 20px;
+        }
     }
 }

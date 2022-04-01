@@ -8,10 +8,16 @@
     "HOME_PARALLAX_TEXT_UNDERLINE": "Welcome ",
     "HOME_PARALLAX_TEXT": "to Korean Grace Christian Reformed Church",
 
+    "HOME_INFO_TITLE": "SERVICE INFORMATION",
+    "HOME_TAGLINE": "“See, I am doing a new thing!” Isaiah 43:19",
     "HOME_INFO_SERVICE_TITLE": "Service Times",
+    "HOME_INFO_SERVICE_PASTOR": "Pastor: ",
+    "HOME_INFO_SERVICE_PASTOR_NAME": "Rev. Moon Bae Kim",
     "HOME_INFO_SERVICE_DATE": "Sunday:",
     "HOME_INFO_SERVICE_TIME": "11:00 am (Korean & English) ",
+    "HOME_INFO_SERVICE_TRANSLATION": "English Translation earpieces are available in the sound booth.",
     "HOME_INFO_SERVICE_LOCATION": "Location:",
+    "HOME_INFO_SERVICE_EXPLANATION": "On Burton St SE, across from Garfield Park",
     "HOME_INFO_SERVICE_PLACE": "Main Sanctuary",
     "HOME_INFO_SERVICE_BUTTON": "Listen to Sermon",
 
@@ -24,11 +30,39 @@
     "HOME_PARALLAX_TEXT_TITLE2": "Ministry Goal",
     "HOME_PARALLAX_TEXT2": "where the congregation and the pastor become one chruch to serve.",
     "HOME_GROUP_CHURCH": "Groups within the Church",
-    "HOME_GROUP_CHURCH_DESCRIPTION": "Within the church there are multiples ministries and community where you can grow together both spiritually and socially",
+    "HOME_GROUP_CHURCH_DESCRIPTION": "Within the church there are multiples ministries and community",
+    "HOME_GROUP_CHURCH_DESCRIPTION2":"where you can grow together both spiritually and socially",
     "HOME_GROUP_BUTTON": "Find more",
+
+    "ABOUT_PARALLAX_TEXT_UNDERLINE": "INTRODUCING",
+    "ABOUT_PARALLAX_TEXT": "KOREAN GRACE CHURCH",
+    "ABOUT_BELIEF_TITLE": "OUR BELIEF",
+    "ABOUT_MISSION": "OUR MISSION",
+    "ABOUT_MISSION_DETAIL": "As people called by God, We gather to praise God, listen to him, and respond. We nurture each other in faith and obedience to Christ. We love and care for one another as God's people. We commit ourselves to serve and to tell others about Jesus. We pursue God's justice and peace in every area of life",
+    "ABOUT_VISION": "OUR VISION",
+    "ABOUT_VISION_DETAIL": "The Christian Reformed Church is a diverse family of healthy congregations, assemblies, and ministries expressing the good news of God's kingdom that transforms lives and communities worldwide.",
+    "ABOUT_MINISTRY_1": "Spiritual ",
+    "ABOUT_MINISTRY_1_1": "Worship",
+    "ABOUT_MINISTRY_2": "Unifying ",
+    "ABOUT_MINISTRY_2_1": "Fellowship",
+    "ABOUT_MINISTRY_3": "Life-Changing",
+    "ABOUT_MINISTRY_3_1": "Discipleship",
+    "ABOUT_MINISTRY_4": "Fruitful ",
+    "ABOUT_MINISTRY_4_1": "Ministry",
+    "ABOUT_PASTOR": "About Our Pastor",
+    "ABOUT_KIM": "Rev Moon Bae Kim",
+    "ABOUT_PASTOR_DETAIL": "Rev Moon Bae Kim was born in Korea and immigranted to Chicago during the summer of 1986. In 1990, Rev Moon Bae move to Grand Rapids to attend Calvin Seminary. On 1995, August 12th Rev Moon Bae became a associate paster at CRC. Ever since the Sunday of 1998, October 4th, Rev Moon Bae has been serving at Korean Grace Church as the pastor. Rev Moon Bae has M. Div, Th.M 1, Th.M 2 from Calvin Theological Seminary and D.Min from Western Tehological Seminary.",
+
+    "ABOUT_CHURCH": " About our church",
+    "ABOUT_CHURCH_DETAIL": "The Korean Grace Church of Grand Rapids is affliated with Christian Reformed Church in North America, which is also known as 'CRCNA' or 'CRC.' CRC denomination's teaching consist of John Calvin's theology, Dutch Calvinist theologian Herman Bavinck and Abraham Kuyper's  ",
+
+    
+
 
     "MINISTRY_PARALLAX_TEXT":"Ministries ",
     "MINISTRY_PARALLAX_TEXT2":"that can be found in the church",
+
+    "MINISTRY_TEXT": "where the congregation and the pastor become one chruch to serve.",
 
     "MINISTRY_YOUTH_GROUP":"Youth Group ",
     "MINISTRY_YOUTH_GROUP_DESCRIPTION":"Teaching young people in the church to grow in their relationship with the Lord prepares them to serve Christ in all they do. ",
@@ -44,16 +78,16 @@
     "MINISTRY_UNIVERSITY_GROUP_LOCATION":"Location: ",
     "MINISTRY_UNIVERSITY_GROUP_PLACE":"Chapel ",
 
-    "MINISTRY_ADULT_GROUP":"Adult Group ",
+    "MINISTRY_ADULT_GROUP":"Young Adult",
     "MINISTRY_ADULT_GROUP_DESCRIPTION":"Create a service-oriented community and increase fellowship between young professional adults and families in our church.", 
     "MINISTRY_ADULT_GROUP_DATE":"1st/3rd Friday: ",
     "MINISTRY_ADULT_GROUP_TIME":"7:30 pm ",
     "MINISTRY_ADULT_GROUP_LOCATION":"Location: ",
     "MINISTRY_ADULT_GROUP_PLACE":"Chapel ",
 
-    "MINISTRY_BIBLE_GROUP":"Bible Study ",
+    "MINISTRY_BIBLE_GROUP":"Adult Bible Study ",
     "MINISTRY_BIBLE_GROUP_DESCRIPTION":"Reading and sharing scripture with each other through Bible study.", 
-    "MINISTRY_BIBLE_GROUP_DATE":"Thursday: ",
+    "MINISTRY_BIBLE_GROUP_DATE":"Thursday-Saturday: ",
     "MINISTRY_BIBLE_GROUP_TIME":"10:30 am",
     "MINISTRY_BIBLE_GROUP_DATE2":"Friday: ",
     "MINISTRY_BIBLE_GROUP_TIME2":"10:30 am",
@@ -63,6 +97,14 @@
     "MINISTRY_BIBLE_GROUP_TIME4":"3:00 pm",
     "MINISTRY_BIBLE_GROUP_LOCATION":"Location: ",
     "MINISTRY_BIBLE_GROUP_PLACE":"Zoom ",
+
+    "MINISTRY_ALL_BIBLE_GROUP":"Bible Study ",
+    "MINISTRY_ALL_BIBLE_DESCRIPTION":"Reading and sharing scripture with each other through Bible study. ",
+    "MINISTRY_ALL_BIBLE_DATE":"2nd/4th/5th Sunday: ",
+    "MINISTRY_ALL_BIBLE_TIME":"12:45pm ",
+    "MINISTRY_ALL_BIBLE_LOCATION":"Location: ",
+    "MINISTRY_ALL_BIBLE_PLACE":"Meeting Room ",
+
 
     "FOOTER_TAGLINE": "“See, I am doing a new thing!” Isaiah 43:19",
     "FOOTER_CONTACT_US": "Contact Us",

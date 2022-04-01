@@ -8,14 +8,8 @@ import { TranslateService } from '@ngx-translate/core';
 })
 export class ActivitiesComponent implements OnInit {
 
-  constructor(private translate: TranslateService) {
-    translate.setDefaultLang('en');
-    translate.use('en');
-  }
 
-  changeLocale(locale:string) {
-    this.translate.use(locale);
-  }
+  constructor() { }
 
   ngOnInit(): void {
   }

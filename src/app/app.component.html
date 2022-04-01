@@ -1,11 +1,39 @@
 
+<header class="navbar">
+  <div class="container">
+     <div class="navbar-mobile-top">
+        <div class="navigation-logo-container">
+          <a routerLink="">
+            <img class="logo" src="../assets/images/crc_logo.png" alt="Korean Grace Christian Reformed">
+          </a>
+          <div id="logo-text">
+            <h1>{{'NAV_LOGO_NAME' | translate}}</h1>
+            <h2>{{'NAV_LOGO_NAME2' | translate}}</h2>
+          </div>
+        </div>
+        <button class="navbar-toggle" (click)="toggleNavbar()">
+          <img src="{{!navbarOpened ? '../assets/images/hamberger_white.png' : '../assets/images/close_white.png'}}">
+       </button>
+      </div>
+     <div class="top-navbar">
+        <li><a class="nav_items" (click)="toggleNavbarOff()" routerLink="/home" routerLinkActive="active">{{'NAV_HOME' | translate}}</a></li>
+        <li><a class="nav_items" (click)="toggleNavbarOff()" routerLink="/about" routerLinkActive="active">{{'NAV_ABOUT_US' | translate}}</a></li>
+        <li><a class="nav_items" (click)="toggleNavbarOff()" routerLink="/activities" routerLinkActive="active">{{'NAV_MINISTRIES' | translate}}</a></li>
+        <div class="change-lang-container">
+            <select #locale (change)="changeLocale(locale.value)">
+              <option value="en">English</option>
+              <option value="kr">한국어</option>
+            </select>          
+        </div>
+     </div>
+  </div>
+</header>
 
-<header>
-  <nav class="navigation">
-    
+
+  <!-- <nav class="navigation">  
     <div class="navigation-logo-container">
       <a routerLink="">
-        <img class="logo" src="../assets/images/crc.png" alt="Korean Grace Christian Reformed">
+        <img class="logo" src="../assets/images/crc_logo.png" alt="Korean Grace Christian Reformed">
       </a>
       <div id="logo-text">
         <h1>{{'NAV_LOGO_NAME' | translate}}</h1>
@@ -15,22 +43,27 @@
 
     <div class="list_container">
       <ul class="nav_links">
-        <li><a routerLink="/home" routerLinkActive="active">{{'NAV_HOME' | translate}}</a></li>
-        <li><a routerLink="/about" routerLinkActive="active">{{'NAV_ABOUT_US' | translate}}</a></li>
-        <li><a routerLink="/activities" routerLinkActive="active">{{'NAV_MINISTRIES' | translate}}</a></li>
-        <!-- <li>{{'NAV_LOGO_NAME' | translate}}</li>
-        <li>{{'NAV_LOGO_NAME' | translate}}</li> -->
-        <li>
-          <select #locale (change)="changeLocale(locale.value)">
-            <option value="en">English</option>
-            <option value="kr">한국어</option>
-          </select>          
-        </li>
+        <div id="home_container">
+          <li><a class="nav_items" routerLink="/home" routerLinkActive="active">{{'NAV_HOME' | translate}}</a></li>
+        </div>
+        <div>
+          <li><a class="nav_items" routerLink="/about" routerLinkActive="active">{{'NAV_ABOUT_US' | translate}}</a></li>
+        </div>
+        <div>
+          <li><a class="nav_items" routerLink="/activities" routerLinkActive="active">{{'NAV_MINISTRIES' | translate}}</a></li>
+        </div>
+        <div>
+          <li>
+            <select #locale (change)="changeLocale(locale.value)">
+              <option value="en">English</option>
+              <option value="kr">한국어</option>
+            </select>          
+          </li>
+        </div>
       </ul>
     </div>
+  </nav> -->
 
-  </nav>
-</header>
 
 <router-outlet></router-outlet>
 

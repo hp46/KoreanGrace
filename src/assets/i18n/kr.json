@@ -7,11 +7,18 @@
 
     "HOME_PARALLAX_TEXT_UNDERLINE": "환영합니다! ",
     "HOME_PARALLAX_TEXT": "은혜교회에 처음 방문해 주셔서 감사합니다! ",
+
+    "HOME_TAGLINE": "“내가 새 일을 행하리니” 이사야 43:19",
+    "HOME_INFO_TITLE": "예배 정보",
+    "HOME_INFO_SERVICE_PASTOR": "사회:",
+    "HOME_INFO_SERVICE_PASTOR_NAME": "김문배 목사",
     "HOME_INFO_SERVICE_TITLE": "예배 시간",
     "HOME_INFO_SERVICE_DATE": "주일:",
     "HOME_INFO_SERVICE_TIME": "11:00am (한국어 & 영어 통역 가능) ",
+    "HOME_INFO_SERVICE_TRANSLATION": "영어가 편하신 분들을 위해서, 통역기가 방송실에 있습니다",
     "HOME_INFO_SERVICE_LOCATION": "장소:",
     "HOME_INFO_SERVICE_PLACE": "대예배실",
+    "HOME_INFO_SERVICE_EXPLANATION": "Burton St SE, Garfield 공원 건너편",
     "HOME_INFO_SERVICE_BUTTON": "설교 다시 듣기",
 
     "HOME_INFO_CONTACT_TITLE": "교회 주소:",
@@ -25,7 +32,31 @@
 
     "HOME_GROUP_CHURCH": "교회에 있는 공동체",
     "HOME_GROUP_CHURCH_DESCRIPTION": "교회 공동체를 통해서 영적으로 또 사회적으로 성장 할 수 있는 다양한 활동과 봉사들이 있습니다.",
+    "HOME_GROUP_CHURCH_DESCRIPTION2":"성장 할 수 있는 다양한 활동과 봉사들이 있습니다.",
     "HOME_GROUP_BUTTON": "더 알아보기",
+
+    "ABOUT_PARALLAX_TEXT_UNDERLINE": "은혜교회",
+    "ABOUT_PARALLAX_TEXT": "를 소개합니다",   
+    "ABOUT_BELIEF_TITLE": "우리의 철학",
+    "ABOUT_MISSION": "우리의 사명",
+    "ABOUT_MISSION_DETAIL": "하나님께 부름 받은 백성인 우리는 하나님을 찬양하며, 그의 말씀을 듣고, 순종하기 위해 모인다. 우리는 그리스도에 대한 믿음과 순종으로 서로 자라간다. 우리는 하나님의 백성을 사랑하며 돌아본다. 우리는 다른 이를 섬기고 예수님을 증거한다. 우리는 삶의 모든 영역에서 하나님의 공의와 평화를 추구한다.",
+    "ABOUT_VISION": "우리의 비전",
+    "ABOUT_VISION_DETAIL": "북미주 개혁장로회는 건강한 지역교회, 노회와 총회, 여러 사역을 포함하는 다양한 모습의 한 가족으로서 온 세상의 사람과 사회를 변화시키는 하나님 나라의 복음을 전파한다",
+    "ABOUT_MINISTRY_1": "영감 넘치는 ",
+    "ABOUT_MINISTRY_1_1": "예배",
+    "ABOUT_MINISTRY_2": "하나되는  ",
+    "ABOUT_MINISTRY_2_1": "교제",
+    "ABOUT_MINISTRY_3": "변화되는 ",
+    "ABOUT_MINISTRY_3_1": "훈련",
+    "ABOUT_MINISTRY_4": "열매맺는  ",
+    "ABOUT_MINISTRY_4_1": "사역",
+    "ABOUT_PASTOR": "목사 소개",
+    "ABOUT_KIM": "김문배 목사",
+    "ABOUT_PASTOR_DETAIL": "김문배(Moon Bae Kim)목사는 한국에서 출생하여 1986년 여름 시카고 지역으로 가족 이민을 왔다. 1990년 캘빈 신학교에서 공부하기 위하여 Grand Rapids로 이주하였다. 1995년 9월 12일 CRC 교단의 목사가 되었다. 1998년 10월 4일 주일부터 그랜드 래피즈 한인 은혜 목사로 섬기고 있다. 캘빈 신학교(Calvin THeological Seminary)에서 목회학 석사(M.Div), 신학 석사(Th.M) 1(신약 신학), 신학 석사(Th.M) 2(설교학), 웨스턴 신학교(Western Theological Seminary)에서 목회학 박사(D.Min) 과정을 공부하였다.",
+    "ABOUT_CHURCH": " 교회 소개:",
+    "ABOUT_CHURCH_DETAIL": "그랜드 래피즈 한인은혜교회 (The Korean Grace Church of Grand Rapids)는 북미주 개혁교회 (Christian Reformed Church in North America, 줄여서 CRCNA 혹은 CRC로 부른다) 교단에 소속된 교회이다. CRC 교단은 종교개혁가인 John Calvin의 신학 전통과 네덜란드의 헤르만 바빙크, 아브라함 카이퍼의 신학과 삶의 전통을 근거로 세워진 네덜란드계 미국인들이 세운 교단이다. 개혁교회 (Reformed Church)는 유럽에서 종교개혁의 신학을 이어받은 교회들이며, 장로교회는 영국의 John Knox 목사님이 John Calvin과 교류하며 시작하신 교단이다. 그러므로 매우 유사한 신학을 공유한 교단들이다. 그랜드 래피즈 은혜교회는 1998년 10월 4일 첫 예배를 드리며 시작되었다. 그랜드 래피즈 북부 노회 (Classis Grand Rapids North) 소속으로 CRC 교단의 신학과 교회 조직을 따르는 교회이며, 이민 1세대, 1.5세대, 및 2세대의 개혁주의 세계관과 신앙생활을 추구하는 교회이다.",
+    
+
 
     "MINISTRY_PARALLAX_TEXT":"교회 안에서 ",
     "MINISTRY_PARALLAX_TEXT2":"찾을 수 있는 사역",
@@ -51,9 +82,9 @@
     "MINISTRY_ADULT_GROUP_LOCATION":"장소: ",
     "MINISTRY_ADULT_GROUP_PLACE":"예배당 ",
 
-    "MINISTRY_BIBLE_GROUP":"성경 공부 ",
+    "MINISTRY_BIBLE_GROUP":"구역 공부 ",
     "MINISTRY_BIBLE_GROUP_DESCRIPTION":"Reading and sharing scripture with each other through Bible study.", 
-    "MINISTRY_BIBLE_GROUP_DATE":"목요일: ",
+    "MINISTRY_BIBLE_GROUP_DATE":"목요일 - 금요일: ",
     "MINISTRY_BIBLE_GROUP_TIME":"10:30 am",
     "MINISTRY_BIBLE_GROUP_DATE2":"금요일: ",
     "MINISTRY_BIBLE_GROUP_TIME2":"10:30 am",
@@ -63,6 +94,13 @@
     "MINISTRY_BIBLE_GROUP_TIME4":"3:00 pm",
     "MINISTRY_BIBLE_GROUP_LOCATION":"장소: ",
     "MINISTRY_BIBLE_GROUP_PLACE":"줌(Zoom) ",
+
+    "MINISTRY_ALL_BIBLE_GROUP":"성경공부 ",
+    "MINISTRY_ALL_BIBLE_DESCRIPTION":"Reading and sharing scripture with each other through Bible study. ",
+    "MINISTRY_ALL_BIBLE_DATE":"둘쨰/넷째/다섯쨰 주일: ",
+    "MINISTRY_ALL_BIBLE_TIME":"12:45 pm ",
+    "MINISTRY_ALL_BIBLE_LOCATION":"장소: ",
+    "MINISTRY_ALL_BIBLE_PLACE":"회의실 ",
 
     "FOOTER_TAGLINE": "“내가 새 일을 행하리니” 이사야 43:19",
     "FOOTER_CONTACT_US": "교회 주소",
